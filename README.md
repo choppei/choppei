@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Berk 👋 Welcome my GitHub Page
 
 <!--
 **choppei/choppei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
