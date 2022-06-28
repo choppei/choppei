@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Node.js
 
 
-my Medium Page
+my Medium Page <br>
+
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@berk.kucukogluu)
 
 
