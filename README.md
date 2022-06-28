@@ -11,6 +11,7 @@
 
 
 
-![choppei's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![choppei's GitHub stats](https://github-readme-stats.vercel.app/api?username=choppei&show_icons=true&theme=radical)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3
 
 
