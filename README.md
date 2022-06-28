@@ -12,3 +12,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choppei&show_icons=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choppei&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
