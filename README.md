@@ -11,7 +11,6 @@
 
 
 
-![choppei GitHub stats](https://github-readme-stats.vercel.app/api?username=choppei&show_icons=true)
+![choppei's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choppei&repo=github-readme-stats)](https://github.com/choppei/github-readme-stats)
