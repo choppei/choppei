@@ -1,7 +1,5 @@
 ### Hi there, I'm Berk 👋 Welcome my GitHub Page
 
-**choppei/choppei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Web App
 - 🌱 I’m currently learning ASP.NET Core
 - 👯 I’m looking to collaborate on Node.js
