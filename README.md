@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on a web app. 
 - 🌱 I’m currently learning ReactJS.
-<img src="https://github-readme-stats.vercel.app/api?username=choppei&&show_icons=true&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&bg_color=054041">
 
 ### What do I do?
   <img alt="VUE JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> 
